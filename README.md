@@ -10,7 +10,7 @@ I am an aspiring android developer. My journey began with learning the Java lang
 * ✉️  You can contact me at [belikovilya0@gmail.com](mailto:belikovilya0@gmail.com)
 * ⚡  Also I am interested in the history of different countries and civilisations.
 
-### Skills
+### Skills and Languages
 
 
 <p align="left">
